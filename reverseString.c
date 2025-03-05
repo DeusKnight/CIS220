@@ -1,3 +1,5 @@
+//Luis A. Miranda
+//Chpt2 PA
 #include <stdio.h>
 #include <string.h>
 
